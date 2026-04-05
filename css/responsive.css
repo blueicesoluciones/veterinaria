@@ -275,7 +275,7 @@ padding: 126px 40px;
 .header_brand { padding-left: 8px; gap: 10px; }
 .header_brand_logo { height: 44px; max-width: 60px; }
 .header_brand_name { font-size: 22px; }
-.header_top .menu_text { padding-top: 6px; }
+.header_top .menu_text { padding-top: 0px; }
 .banner_section { padding-top: 30px; }
 .banner_taital { font-size: 34px; margin-top: 10px; }
 .banner_taital_1 { font-size: 28px; margin-top: 4px; }
@@ -385,7 +385,7 @@ ul.link li {
 .header_brand { padding-left: 5px; gap: 8px; }
 .header_brand_logo { height: 40px; max-width: 54px; }
 .header_brand_name { font-size: 20px; }
-.header_top .menu_text { padding-top: 4px; }
+.header_top .menu_text { padding-top: 0px; }
 .banner_section { padding-top: 30px; }
 .banner_taital { font-size: 32px; margin-top: 8px; }
 .banner_taital_1 { font-size: 36px; margin-top: 4px; }
